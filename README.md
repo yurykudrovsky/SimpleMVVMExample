@@ -1,7 +1,7 @@
 # SimpleMVVMExample
 ![MVVM](Diagram.png)
 
-In current example binded by closures, as most common approach but also can be builded by:
+In current example binded by closures, as most common approach but also can be binded by:
 
 + Delegates & Protocols
 + Swift Combine
